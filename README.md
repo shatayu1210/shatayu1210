@@ -27,7 +27,7 @@
 
 All projects live in [**Portfolio**](https://github.com/shatayu1210/Portfolio):
 
-- **AgenticAI AutoBot** · autonomous GitHub issue triage, GraphRAG, multi-agent patching
+- **AgenticAI AutoBot** · proactive issue tracker with bottleneck alerts (Slack), GraphRAG, multi-agent patching
 - **Distributed Event Platform** · Kafka, WebSockets, MERN, AWS EKS
 - **AI CleanSQL** · data-quality-aware SQL generation with fine-tuned LLM and hybrid RAG
 - **Finance Data Analytics** · Airflow, dbt, Snowflake ML, Superset dashboards
